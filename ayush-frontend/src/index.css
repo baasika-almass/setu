@@ -1,0 +1,107 @@
+:root {
+  /* Ink & neutrals */
+  --color-ink: #0d1b2e;
+  --color-ink-soft: #33475b;
+  --color-slate: #5b6b7c;
+  --color-slate-light: #94a1ac;
+  --color-field-bg: #f7f8fa;
+  --color-field-bg-hover: #f0f2f5;
+  --color-field-border: #e2e6ea;
+  --color-border-subtle: #ecedf0;
+  --color-card-bg: #ffffff;
+
+  /* Brand accents — used deliberately, not everywhere */
+  --color-green: #0f7a4f;
+  --color-green-dark: #0b5f3d;
+  --color-green-tint: #e7f5ee;
+  --color-blue: #4a45d1;
+  --color-blue-tint: #eceafc;
+
+  /* Page canvas */
+  --color-canvas-top: #f5f6fc;
+  --color-canvas-bottom: #eceef8;
+
+  /* Theme: deep indigo navigation, gradient stat cards */
+  --color-primary: #4a45d1;
+  --color-primary-dark: #3a35b0;
+  --color-navy: #1a1f5e;
+  --color-navy-soft: #262c7a;
+  --grad-purple: linear-gradient(135deg, #5a4bd8 0%, #8660e6 100%);
+  --grad-violet: linear-gradient(135deg, #9a6df0 0%, #c08bf3 100%);
+  --grad-orange: linear-gradient(135deg, #ff9d6c 0%, #ff6f91 100%);
+  --grad-teal: linear-gradient(135deg, #2fd3ac 0%, #3fb6d8 100%);
+
+  --font-sans: -apple-system, "Segoe UI", "Inter", "Helvetica Neue", Arial,
+    sans-serif;
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+
+  --shadow-card: 0 1px 1px rgba(13, 27, 46, 0.03), 0 2px 6px rgba(13, 27, 46, 0.04),
+    0 20px 40px -16px rgba(13, 27, 46, 0.14);
+  --shadow-button: 0 1px 2px rgba(15, 122, 79, 0.15), 0 8px 16px -6px rgba(15, 122, 79, 0.35);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+#root {
+  min-height: 100vh;
+  background: linear-gradient(180deg, var(--color-canvas-top) 0%, var(--color-canvas-bottom) 100%);
+  background-attachment: fixed;
+}
+
+button {
+  font-family: inherit;
+}
+
+a {
+  color: var(--color-blue);
+}
+
+input,
+select,
+textarea {
+  font-family: inherit;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus-visible {
+  outline: none;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  border-color: var(--color-blue);
+  box-shadow: 0 0 0 3px var(--color-blue-tint);
+}
+
+button:focus-visible {
+  outline: 2px solid var(--color-blue);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}

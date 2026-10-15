@@ -1,0 +1,125 @@
+.docs-page {
+  flex: 1;
+  max-width: 760px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 48px 20px 64px;
+}
+
+.docs-intro {
+  margin-bottom: 28px;
+}
+
+.docs-title {
+  margin: 0 0 10px;
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--color-ink);
+}
+
+.docs-subtitle {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--color-slate);
+}
+
+.docs-subtitle code {
+  background: var(--color-field-bg);
+  border: 1px solid var(--color-field-border);
+  border-radius: 4px;
+  padding: 1px 5px;
+  font-size: 12.5px;
+}
+
+.docs-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.endpoint-card {
+  background: var(--color-card-bg);
+  border: 1px solid var(--color-border-subtle);
+  border-radius: var(--radius-md);
+  padding: 20px 22px;
+  box-shadow: var(--shadow-card);
+}
+
+.endpoint-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.method-tag {
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  padding: 4px 9px;
+  border-radius: 6px;
+}
+
+.method-get {
+  background: var(--color-blue-tint);
+  color: var(--color-blue);
+}
+
+.method-post {
+  background: var(--color-green-tint);
+  color: var(--color-green-dark);
+}
+
+.endpoint-path {
+  font-size: 13.5px;
+  font-weight: 700;
+  color: var(--color-ink);
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+.endpoint-summary {
+  margin: 0 0 14px;
+  font-size: 13.5px;
+  line-height: 1.55;
+  color: var(--color-slate);
+}
+
+.endpoint-code-wrap {
+  position: relative;
+}
+
+.endpoint-code {
+  margin: 0;
+  background: #0d1526;
+  color: #c3cad6;
+  border-radius: var(--radius-sm);
+  padding: 14px 16px;
+  font-size: 12.5px;
+  line-height: 1.6;
+  overflow-x: auto;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+.copy-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 11px;
+  font-weight: 700;
+  color: #c3cad6;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 6px;
+  padding: 5px 9px;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.copy-button:hover {
+  background: rgba(255, 255, 255, 0.16);
+}

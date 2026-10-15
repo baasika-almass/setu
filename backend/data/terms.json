@@ -1,0 +1,3125 @@
+{
+ "Ayurveda": [
+  {
+   "term": "Vata Jvara (वातज्वर)",
+   "namasteCode": "A_JV.1.1",
+   "icd11Code": "SF82",
+   "icd11Label": "Traditional Medicine Fever",
+   "symptoms": [
+    "fever",
+    "shivering",
+    "chills",
+    "body ache",
+    "joint pain",
+    "dry mouth",
+    "dryness",
+    "constipation",
+    "headache"
+   ]
+  },
+  {
+   "term": "Pitta Jvara (पित्तज्वर)",
+   "namasteCode": "A_JV.1.2",
+   "icd11Code": "SF83",
+   "icd11Label": "Traditional Medicine Fever, Pitta Pattern",
+   "symptoms": [
+    "fever",
+    "high fever",
+    "burning",
+    "burning sensation",
+    "sweating",
+    "thirst",
+    "vomiting",
+    "bitter taste",
+    "diarrhea"
+   ]
+  },
+  {
+   "term": "Kapha Jvara (कफज्वर)",
+   "namasteCode": "A_JV.1.3",
+   "icd11Code": "SF84",
+   "icd11Label": "Traditional Medicine Fever, Kapha Pattern",
+   "symptoms": [
+    "fever",
+    "mild fever",
+    "heaviness",
+    "cold",
+    "cough",
+    "phlegm",
+    "mucus",
+    "nausea",
+    "drowsiness",
+    "loss of appetite"
+   ]
+  },
+  {
+   "term": "Sannipata Jvara (सन्निपातज्वर)",
+   "namasteCode": "A_JV.1.4",
+   "icd11Code": "SF85",
+   "icd11Label": "Traditional Medicine Fever, Combined Pattern",
+   "symptoms": [
+    "fever",
+    "high fever",
+    "confusion",
+    "delirium",
+    "severe weakness",
+    "shivering",
+    "burning",
+    "cough"
+   ]
+  },
+  {
+   "term": "Amlapitta (अम्लपित्त)",
+   "namasteCode": "A_AP.9.2",
+   "icd11Code": "SF88",
+   "icd11Label": "Traditional Medicine Acid-Peptic Disorder",
+   "symptoms": [
+    "acidity",
+    "heartburn",
+    "burning",
+    "burning sensation",
+    "sour belching",
+    "vomiting",
+    "stomach pain",
+    "nausea",
+    "indigestion",
+    "bloating"
+   ]
+  },
+  {
+   "term": "Ajirna (Indigestion)",
+   "namasteCode": "A_AJ.6.1",
+   "icd11Code": "SA101",
+   "icd11Label": "Traditional Medicine Indigestion",
+   "symptoms": [
+    "indigestion",
+    "bloating",
+    "heaviness",
+    "belching",
+    "nausea"
+   ]
+  },
+  {
+   "term": "Atisara (Diarrhea)",
+   "namasteCode": "A_AT.6.2",
+   "icd11Code": "SA102",
+   "icd11Label": "Traditional Medicine Diarrhea",
+   "symptoms": [
+    "loose stools",
+    "diarrhea",
+    "abdominal pain",
+    "dehydration",
+    "weakness"
+   ]
+  },
+  {
+   "term": "Grahani (Irritable bowel)",
+   "namasteCode": "A_GR.6.3",
+   "icd11Code": "SA103",
+   "icd11Label": "Traditional Medicine Irritable bowel",
+   "symptoms": [
+    "loose stools",
+    "constipation",
+    "bloating",
+    "abdominal pain",
+    "mucus in stool"
+   ]
+  },
+  {
+   "term": "Arsha (Piles)",
+   "namasteCode": "A_AR.6.4",
+   "icd11Code": "SA104",
+   "icd11Label": "Traditional Medicine Piles",
+   "symptoms": [
+    "bleeding",
+    "pain while passing stool",
+    "constipation",
+    "itching",
+    "swelling"
+   ]
+  },
+  {
+   "term": "Vibandha (Constipation)",
+   "namasteCode": "A_VI.6.5",
+   "icd11Code": "SA105",
+   "icd11Label": "Traditional Medicine Constipation",
+   "symptoms": [
+    "constipation",
+    "hard stools",
+    "bloating",
+    "straining"
+   ]
+  },
+  {
+   "term": "Chhardi (Vomiting)",
+   "namasteCode": "A_CH.6.6",
+   "icd11Code": "SA106",
+   "icd11Label": "Traditional Medicine Vomiting",
+   "symptoms": [
+    "vomiting",
+    "nausea",
+    "salivation",
+    "loss of appetite"
+   ]
+  },
+  {
+   "term": "Aruchi (Loss of appetite)",
+   "namasteCode": "A_AR.6.7",
+   "icd11Code": "SA107",
+   "icd11Label": "Traditional Medicine Loss of appetite",
+   "symptoms": [
+    "loss of appetite",
+    "bad taste",
+    "nausea",
+    "weakness"
+   ]
+  },
+  {
+   "term": "Trishna (Excessive thirst)",
+   "namasteCode": "A_TR.6.8",
+   "icd11Code": "SA108",
+   "icd11Label": "Traditional Medicine Excessive thirst",
+   "symptoms": [
+    "thirst",
+    "dry mouth",
+    "dry throat",
+    "weakness"
+   ]
+  },
+  {
+   "term": "Kasa (Cough)",
+   "namasteCode": "A_KA.6.9",
+   "icd11Code": "SA109",
+   "icd11Label": "Traditional Medicine Cough",
+   "symptoms": [
+    "cough",
+    "throat irritation",
+    "phlegm",
+    "chest pain"
+   ]
+  },
+  {
+   "term": "Shwasa (Breathlessness)",
+   "namasteCode": "A_SH.6.10",
+   "icd11Code": "SA110",
+   "icd11Label": "Traditional Medicine Breathlessness",
+   "symptoms": [
+    "breathlessness",
+    "wheezing",
+    "chest tightness",
+    "cough",
+    "difficulty breathing"
+   ]
+  },
+  {
+   "term": "Pratishyaya (Common cold)",
+   "namasteCode": "A_PR.6.11",
+   "icd11Code": "SA111",
+   "icd11Label": "Traditional Medicine Common cold",
+   "symptoms": [
+    "runny nose",
+    "sneezing",
+    "nasal block",
+    "sore throat",
+    "headache",
+    "cold"
+   ]
+  },
+  {
+   "term": "Peenasa (Sinusitis)",
+   "namasteCode": "A_PE.6.12",
+   "icd11Code": "SA112",
+   "icd11Label": "Traditional Medicine Sinusitis",
+   "symptoms": [
+    "nasal block",
+    "facial heaviness",
+    "headache",
+    "runny nose",
+    "loss of smell"
+   ]
+  },
+  {
+   "term": "Shirahshula (Headache)",
+   "namasteCode": "A_SH.6.13",
+   "icd11Code": "SA113",
+   "icd11Label": "Traditional Medicine Headache",
+   "symptoms": [
+    "headache",
+    "head heaviness",
+    "throbbing pain",
+    "eye strain"
+   ]
+  },
+  {
+   "term": "Ardhavabhedaka (Migraine)",
+   "namasteCode": "A_AR.6.14",
+   "icd11Code": "SA114",
+   "icd11Label": "Traditional Medicine Migraine",
+   "symptoms": [
+    "one sided headache",
+    "nausea",
+    "vomiting",
+    "light sensitivity",
+    "throbbing pain"
+   ]
+  },
+  {
+   "term": "Madhumeha (Diabetes)",
+   "namasteCode": "A_MA.6.15",
+   "icd11Code": "SA115",
+   "icd11Label": "Traditional Medicine Diabetes",
+   "symptoms": [
+    "excessive thirst",
+    "frequent urination",
+    "fatigue",
+    "weight loss",
+    "increased hunger",
+    "blurred vision"
+   ]
+  },
+  {
+   "term": "Sthaulya (Obesity)",
+   "namasteCode": "A_ST.6.16",
+   "icd11Code": "SA116",
+   "icd11Label": "Traditional Medicine Obesity",
+   "symptoms": [
+    "weight gain",
+    "breathlessness",
+    "excess sweating",
+    "fatigue",
+    "joint pain"
+   ]
+  },
+  {
+   "term": "Mutrakrichra (Painful urination)",
+   "namasteCode": "A_MU.6.17",
+   "icd11Code": "SA117",
+   "icd11Label": "Traditional Medicine Painful urination",
+   "symptoms": [
+    "painful urination",
+    "burning urination",
+    "frequent urination",
+    "lower abdominal pain"
+   ]
+  },
+  {
+   "term": "Mutrashmari (Urinary stone)",
+   "namasteCode": "A_MU.6.18",
+   "icd11Code": "SA118",
+   "icd11Label": "Traditional Medicine Urinary stone",
+   "symptoms": [
+    "severe flank pain",
+    "blood in urine",
+    "painful urination",
+    "vomiting",
+    "nausea"
+   ]
+  },
+  {
+   "term": "Amavata (Rheumatoid arthritis)",
+   "namasteCode": "A_AM.6.19",
+   "icd11Code": "SA119",
+   "icd11Label": "Traditional Medicine Rheumatoid arthritis",
+   "symptoms": [
+    "joint pain",
+    "joint swelling",
+    "morning stiffness",
+    "fever",
+    "fatigue"
+   ]
+  },
+  {
+   "term": "Sandhivata (Osteoarthritis)",
+   "namasteCode": "A_SA.6.20",
+   "icd11Code": "SA120",
+   "icd11Label": "Traditional Medicine Osteoarthritis",
+   "symptoms": [
+    "knee pain",
+    "joint stiffness",
+    "cracking joints",
+    "swelling",
+    "difficulty walking"
+   ]
+  },
+  {
+   "term": "Gridhrasi (Sciatica)",
+   "namasteCode": "A_GR.6.21",
+   "icd11Code": "SA121",
+   "icd11Label": "Traditional Medicine Sciatica",
+   "symptoms": [
+    "leg pain",
+    "low back pain",
+    "numbness",
+    "tingling",
+    "difficulty walking"
+   ]
+  },
+  {
+   "term": "Katishula (Low back pain)",
+   "namasteCode": "A_KA.6.22",
+   "icd11Code": "SA122",
+   "icd11Label": "Traditional Medicine Low back pain",
+   "symptoms": [
+    "low back pain",
+    "stiffness",
+    "pain on bending",
+    "muscle spasm"
+   ]
+  },
+  {
+   "term": "Greeva Graha (Neck stiffness)",
+   "namasteCode": "A_GR.6.23",
+   "icd11Code": "SA123",
+   "icd11Label": "Traditional Medicine Neck stiffness",
+   "symptoms": [
+    "neck pain",
+    "neck stiffness",
+    "shoulder pain",
+    "headache"
+   ]
+  },
+  {
+   "term": "Vatarakta (Gout)",
+   "namasteCode": "A_VA.6.24",
+   "icd11Code": "SA124",
+   "icd11Label": "Traditional Medicine Gout",
+   "symptoms": [
+    "joint pain",
+    "redness",
+    "swelling",
+    "burning",
+    "big toe pain"
+   ]
+  },
+  {
+   "term": "Pakshaghata (Paralysis)",
+   "namasteCode": "A_PA.6.25",
+   "icd11Code": "SA125",
+   "icd11Label": "Traditional Medicine Paralysis",
+   "symptoms": [
+    "weakness one side",
+    "slurred speech",
+    "facial droop",
+    "numbness",
+    "difficulty walking"
+   ]
+  },
+  {
+   "term": "Kampavata (Parkinson's disease)",
+   "namasteCode": "A_KA.6.26",
+   "icd11Code": "SA126",
+   "icd11Label": "Traditional Medicine Parkinson's disease",
+   "symptoms": [
+    "tremor",
+    "slow movement",
+    "stiffness",
+    "imbalance"
+   ]
+  },
+  {
+   "term": "Apasmara (Epilepsy)",
+   "namasteCode": "A_AP.6.27",
+   "icd11Code": "SA127",
+   "icd11Label": "Traditional Medicine Epilepsy",
+   "symptoms": [
+    "seizures",
+    "loss of consciousness",
+    "frothing",
+    "convulsions"
+   ]
+  },
+  {
+   "term": "Chittodvega (Anxiety)",
+   "namasteCode": "A_CH.6.28",
+   "icd11Code": "SA128",
+   "icd11Label": "Traditional Medicine Anxiety",
+   "symptoms": [
+    "anxiety",
+    "restlessness",
+    "palpitations",
+    "worry",
+    "fear",
+    "sweating"
+   ]
+  },
+  {
+   "term": "Vishada (Depression)",
+   "namasteCode": "A_VI.6.29",
+   "icd11Code": "SA129",
+   "icd11Label": "Traditional Medicine Depression",
+   "symptoms": [
+    "sadness",
+    "low mood",
+    "loss of interest",
+    "fatigue",
+    "hopelessness"
+   ]
+  },
+  {
+   "term": "Anidra (Insomnia)",
+   "namasteCode": "A_AN.6.30",
+   "icd11Code": "SA130",
+   "icd11Label": "Traditional Medicine Insomnia",
+   "symptoms": [
+    "sleeplessness",
+    "difficulty falling asleep",
+    "waking at night",
+    "daytime tiredness"
+   ]
+  },
+  {
+   "term": "Hridroga (Heart disease)",
+   "namasteCode": "A_HR.6.31",
+   "icd11Code": "SA131",
+   "icd11Label": "Traditional Medicine Heart disease",
+   "symptoms": [
+    "chest pain",
+    "palpitations",
+    "breathlessness",
+    "sweating",
+    "fatigue"
+   ]
+  },
+  {
+   "term": "Raktachapa (Hypertension)",
+   "namasteCode": "A_RA.6.32",
+   "icd11Code": "SA132",
+   "icd11Label": "Traditional Medicine Hypertension",
+   "symptoms": [
+    "headache",
+    "dizziness",
+    "palpitations",
+    "blurred vision",
+    "neck pain"
+   ]
+  },
+  {
+   "term": "Pandu (Anemia)",
+   "namasteCode": "A_PA.6.33",
+   "icd11Code": "SA133",
+   "icd11Label": "Traditional Medicine Anemia",
+   "symptoms": [
+    "pallor",
+    "fatigue",
+    "weakness",
+    "dizziness",
+    "breathlessness",
+    "palpitations"
+   ]
+  },
+  {
+   "term": "Kamala (Jaundice)",
+   "namasteCode": "A_KA.6.34",
+   "icd11Code": "SA134",
+   "icd11Label": "Traditional Medicine Jaundice",
+   "symptoms": [
+    "yellow eyes",
+    "yellow skin",
+    "dark urine",
+    "loss of appetite",
+    "weakness"
+   ]
+  },
+  {
+   "term": "Kushtha (Skin disease)",
+   "namasteCode": "A_KU.6.35",
+   "icd11Code": "SA135",
+   "icd11Label": "Traditional Medicine Skin disease",
+   "symptoms": [
+    "skin lesions",
+    "itching",
+    "scaling",
+    "discoloration",
+    "dryness"
+   ]
+  },
+  {
+   "term": "Kitibha (Psoriasis)",
+   "namasteCode": "A_KI.6.36",
+   "icd11Code": "SA136",
+   "icd11Label": "Traditional Medicine Psoriasis",
+   "symptoms": [
+    "scaly patches",
+    "itching",
+    "dry skin",
+    "thick skin",
+    "bleeding patches"
+   ]
+  },
+  {
+   "term": "Vicharchika (Eczema)",
+   "namasteCode": "A_VI.6.37",
+   "icd11Code": "SA137",
+   "icd11Label": "Traditional Medicine Eczema",
+   "symptoms": [
+    "itching",
+    "oozing",
+    "dark skin",
+    "rash",
+    "dryness"
+   ]
+  },
+  {
+   "term": "Dadru (Ringworm)",
+   "namasteCode": "A_DA.6.38",
+   "icd11Code": "SA138",
+   "icd11Label": "Traditional Medicine Ringworm",
+   "symptoms": [
+    "ring shaped rash",
+    "itching",
+    "redness",
+    "scaling"
+   ]
+  },
+  {
+   "term": "Sheetapitta (Urticaria)",
+   "namasteCode": "A_SH.6.39",
+   "icd11Code": "SA139",
+   "icd11Label": "Traditional Medicine Urticaria",
+   "symptoms": [
+    "hives",
+    "itching",
+    "rash",
+    "swelling",
+    "redness"
+   ]
+  },
+  {
+   "term": "Yuvanapidaka (Acne)",
+   "namasteCode": "A_YU.6.40",
+   "icd11Code": "SA140",
+   "icd11Label": "Traditional Medicine Acne",
+   "symptoms": [
+    "pimples",
+    "oily skin",
+    "blackheads",
+    "facial scars"
+   ]
+  },
+  {
+   "term": "Khalitya (Hair fall)",
+   "namasteCode": "A_KH.6.41",
+   "icd11Code": "SA141",
+   "icd11Label": "Traditional Medicine Hair fall",
+   "symptoms": [
+    "hair loss",
+    "thinning hair",
+    "scalp dryness",
+    "dandruff"
+   ]
+  },
+  {
+   "term": "Krimi (Intestinal worms)",
+   "namasteCode": "A_KR.6.42",
+   "icd11Code": "SA142",
+   "icd11Label": "Traditional Medicine Intestinal worms",
+   "symptoms": [
+    "abdominal pain",
+    "anal itching",
+    "loss of appetite",
+    "weight loss",
+    "nausea"
+   ]
+  },
+  {
+   "term": "Netrabhishyanda (Conjunctivitis)",
+   "namasteCode": "A_NE.6.43",
+   "icd11Code": "SA143",
+   "icd11Label": "Traditional Medicine Conjunctivitis",
+   "symptoms": [
+    "red eyes",
+    "watering",
+    "itching eyes",
+    "eye discharge",
+    "burning eyes"
+   ]
+  },
+  {
+   "term": "Kashtartava (Painful periods)",
+   "namasteCode": "A_KA.6.44",
+   "icd11Code": "SA144",
+   "icd11Label": "Traditional Medicine Painful periods",
+   "symptoms": [
+    "painful periods",
+    "lower abdominal cramps",
+    "back pain",
+    "nausea"
+   ]
+  },
+  {
+   "term": "Asrigdara (Heavy periods)",
+   "namasteCode": "A_AS.6.45",
+   "icd11Code": "SA145",
+   "icd11Label": "Traditional Medicine Heavy periods",
+   "symptoms": [
+    "heavy bleeding",
+    "prolonged periods",
+    "weakness",
+    "dizziness"
+   ]
+  }
+ ],
+ "Siddha": [
+  {
+   "term": "Iraippu Suram",
+   "namasteCode": "S_SU.2.1",
+   "icd11Code": "SF90",
+   "icd11Label": "Traditional Medicine Respiratory Fever",
+   "symptoms": [
+    "fever",
+    "cough",
+    "wheezing",
+    "breathlessness",
+    "difficulty breathing",
+    "chest tightness"
+   ]
+  },
+  {
+   "term": "Vali Suram",
+   "namasteCode": "S_SU.2.2",
+   "icd11Code": "SF91",
+   "icd11Label": "Traditional Medicine Fever, Vali Pattern",
+   "symptoms": [
+    "fever",
+    "body pain",
+    "joint pain",
+    "tremor",
+    "shivering",
+    "stiffness"
+   ]
+  },
+  {
+   "term": "Aiya Suram",
+   "namasteCode": "S_SU.2.3",
+   "icd11Code": "SF92",
+   "icd11Label": "Traditional Medicine Fever, Aiya Pattern",
+   "symptoms": [
+    "fever",
+    "phlegm",
+    "cold",
+    "runny nose",
+    "cough",
+    "heaviness",
+    "drowsiness"
+   ]
+  },
+  {
+   "term": "Kaasam (Cough)",
+   "namasteCode": "S_KA.7.1",
+   "icd11Code": "SB101",
+   "icd11Label": "Traditional Medicine Cough",
+   "symptoms": [
+    "cough",
+    "phlegm",
+    "throat irritation",
+    "chest pain"
+   ]
+  },
+  {
+   "term": "Eraippu (Asthma)",
+   "namasteCode": "S_ER.7.2",
+   "icd11Code": "SB102",
+   "icd11Label": "Traditional Medicine Asthma",
+   "symptoms": [
+    "breathlessness",
+    "wheezing",
+    "chest tightness",
+    "cough",
+    "difficulty breathing"
+   ]
+  },
+  {
+   "term": "Peenisam (Sinusitis)",
+   "namasteCode": "S_PE.7.3",
+   "icd11Code": "SB103",
+   "icd11Label": "Traditional Medicine Sinusitis",
+   "symptoms": [
+    "nasal block",
+    "headache",
+    "facial heaviness",
+    "runny nose"
+   ]
+  },
+  {
+   "term": "Thalaivali (Headache)",
+   "namasteCode": "S_TH.7.4",
+   "icd11Code": "SB104",
+   "icd11Label": "Traditional Medicine Headache",
+   "symptoms": [
+    "headache",
+    "head heaviness",
+    "throbbing pain",
+    "eye strain"
+   ]
+  },
+  {
+   "term": "Mantham (Indigestion)",
+   "namasteCode": "S_MA.7.5",
+   "icd11Code": "SB105",
+   "icd11Label": "Traditional Medicine Indigestion",
+   "symptoms": [
+    "indigestion",
+    "bloating",
+    "heaviness",
+    "belching",
+    "loss of appetite"
+   ]
+  },
+  {
+   "term": "Kazhichal (Diarrhea)",
+   "namasteCode": "S_KA.7.6",
+   "icd11Code": "SB106",
+   "icd11Label": "Traditional Medicine Diarrhea",
+   "symptoms": [
+    "loose stools",
+    "diarrhea",
+    "abdominal pain",
+    "dehydration",
+    "weakness"
+   ]
+  },
+  {
+   "term": "Malakkattu (Constipation)",
+   "namasteCode": "S_MA.7.7",
+   "icd11Code": "SB107",
+   "icd11Label": "Traditional Medicine Constipation",
+   "symptoms": [
+    "constipation",
+    "hard stools",
+    "bloating",
+    "straining"
+   ]
+  },
+  {
+   "term": "Moolam (Piles)",
+   "namasteCode": "S_MO.7.8",
+   "icd11Code": "SB108",
+   "icd11Label": "Traditional Medicine Piles",
+   "symptoms": [
+    "bleeding",
+    "pain while passing stool",
+    "constipation",
+    "itching"
+   ]
+  },
+  {
+   "term": "Vaanthi (Vomiting)",
+   "namasteCode": "S_VA.7.9",
+   "icd11Code": "SB109",
+   "icd11Label": "Traditional Medicine Vomiting",
+   "symptoms": [
+    "vomiting",
+    "nausea",
+    "salivation",
+    "loss of appetite"
+   ]
+  },
+  {
+   "term": "Pasiyinmai (Loss of appetite)",
+   "namasteCode": "S_PA.7.10",
+   "icd11Code": "SB110",
+   "icd11Label": "Traditional Medicine Loss of appetite",
+   "symptoms": [
+    "loss of appetite",
+    "bad taste",
+    "weakness",
+    "nausea"
+   ]
+  },
+  {
+   "term": "Neerizhivu (Diabetes)",
+   "namasteCode": "S_NE.7.11",
+   "icd11Code": "SB111",
+   "icd11Label": "Traditional Medicine Diabetes",
+   "symptoms": [
+    "excessive thirst",
+    "frequent urination",
+    "fatigue",
+    "weight loss",
+    "increased hunger"
+   ]
+  },
+  {
+   "term": "Mudakku Vatham (Joint pain)",
+   "namasteCode": "S_MU.7.12",
+   "icd11Code": "SB112",
+   "icd11Label": "Traditional Medicine Joint pain",
+   "symptoms": [
+    "joint pain",
+    "joint stiffness",
+    "swelling",
+    "difficulty walking"
+   ]
+  },
+  {
+   "term": "Azhal Keel Vayu (Rheumatoid arthritis)",
+   "namasteCode": "S_AZ.7.13",
+   "icd11Code": "SB113",
+   "icd11Label": "Traditional Medicine Rheumatoid arthritis",
+   "symptoms": [
+    "joint pain",
+    "joint swelling",
+    "morning stiffness",
+    "fever",
+    "fatigue"
+   ]
+  },
+  {
+   "term": "Kalladaippu (Urinary stone)",
+   "namasteCode": "S_KA.7.14",
+   "icd11Code": "SB114",
+   "icd11Label": "Traditional Medicine Urinary stone",
+   "symptoms": [
+    "severe flank pain",
+    "blood in urine",
+    "painful urination",
+    "vomiting"
+   ]
+  },
+  {
+   "term": "Neer Kadupu (Painful urination)",
+   "namasteCode": "S_NE.7.15",
+   "icd11Code": "SB115",
+   "icd11Label": "Traditional Medicine Painful urination",
+   "symptoms": [
+    "painful urination",
+    "burning urination",
+    "frequent urination",
+    "lower abdominal pain"
+   ]
+  },
+  {
+   "term": "Kaamalai (Jaundice)",
+   "namasteCode": "S_KA.7.16",
+   "icd11Code": "SB116",
+   "icd11Label": "Traditional Medicine Jaundice",
+   "symptoms": [
+    "yellow eyes",
+    "yellow skin",
+    "dark urine",
+    "loss of appetite",
+    "weakness"
+   ]
+  },
+  {
+   "term": "Paandu (Anemia)",
+   "namasteCode": "S_PA.7.17",
+   "icd11Code": "SB117",
+   "icd11Label": "Traditional Medicine Anemia",
+   "symptoms": [
+    "pallor",
+    "fatigue",
+    "weakness",
+    "dizziness",
+    "breathlessness"
+   ]
+  },
+  {
+   "term": "Vellai Noi (Leucorrhea)",
+   "namasteCode": "S_VE.7.18",
+   "icd11Code": "SB118",
+   "icd11Label": "Traditional Medicine Leucorrhea",
+   "symptoms": [
+    "white discharge",
+    "itching",
+    "lower abdominal pain",
+    "weakness"
+   ]
+  },
+  {
+   "term": "Soothaga Soolai (Painful periods)",
+   "namasteCode": "S_SO.7.19",
+   "icd11Code": "SB119",
+   "icd11Label": "Traditional Medicine Painful periods",
+   "symptoms": [
+    "painful periods",
+    "lower abdominal cramps",
+    "back pain",
+    "nausea"
+   ]
+  },
+  {
+   "term": "Peruvayiru (Obesity)",
+   "namasteCode": "S_PE.7.20",
+   "icd11Code": "SB120",
+   "icd11Label": "Traditional Medicine Obesity",
+   "symptoms": [
+    "weight gain",
+    "breathlessness",
+    "excess sweating",
+    "fatigue"
+   ]
+  },
+  {
+   "term": "Ratha Azhutham (Hypertension)",
+   "namasteCode": "S_RA.7.21",
+   "icd11Code": "SB121",
+   "icd11Label": "Traditional Medicine Hypertension",
+   "symptoms": [
+    "headache",
+    "dizziness",
+    "palpitations",
+    "blurred vision"
+   ]
+  },
+  {
+   "term": "Idhaya Noi (Heart disease)",
+   "namasteCode": "S_ID.7.22",
+   "icd11Code": "SB122",
+   "icd11Label": "Traditional Medicine Heart disease",
+   "symptoms": [
+    "chest pain",
+    "palpitations",
+    "breathlessness",
+    "sweating"
+   ]
+  },
+  {
+   "term": "Thookkamin (Insomnia)",
+   "namasteCode": "S_TH.7.23",
+   "icd11Code": "SB123",
+   "icd11Label": "Traditional Medicine Insomnia",
+   "symptoms": [
+    "sleeplessness",
+    "difficulty falling asleep",
+    "daytime tiredness"
+   ]
+  },
+  {
+   "term": "Manaththalarchi (Anxiety)",
+   "namasteCode": "S_MA.7.24",
+   "icd11Code": "SB124",
+   "icd11Label": "Traditional Medicine Anxiety",
+   "symptoms": [
+    "anxiety",
+    "restlessness",
+    "palpitations",
+    "worry",
+    "fear"
+   ]
+  },
+  {
+   "term": "Ularchi (Depression)",
+   "namasteCode": "S_UL.7.25",
+   "icd11Code": "SB125",
+   "icd11Label": "Traditional Medicine Depression",
+   "symptoms": [
+    "sadness",
+    "low mood",
+    "loss of interest",
+    "fatigue"
+   ]
+  },
+  {
+   "term": "Vali Noi (Epilepsy)",
+   "namasteCode": "S_VA.7.26",
+   "icd11Code": "SB126",
+   "icd11Label": "Traditional Medicine Epilepsy",
+   "symptoms": [
+    "seizures",
+    "loss of consciousness",
+    "convulsions",
+    "frothing"
+   ]
+  },
+  {
+   "term": "Pakkavatham (Paralysis)",
+   "namasteCode": "S_PA.7.27",
+   "icd11Code": "SB127",
+   "icd11Label": "Traditional Medicine Paralysis",
+   "symptoms": [
+    "weakness one side",
+    "slurred speech",
+    "facial droop",
+    "numbness"
+   ]
+  },
+  {
+   "term": "Muthukuvali (Back pain)",
+   "namasteCode": "S_MU.7.28",
+   "icd11Code": "SB128",
+   "icd11Label": "Traditional Medicine Back pain",
+   "symptoms": [
+    "low back pain",
+    "stiffness",
+    "pain on bending",
+    "muscle spasm"
+   ]
+  },
+  {
+   "term": "Kazhuthu Vali (Neck pain)",
+   "namasteCode": "S_KA.7.29",
+   "icd11Code": "SB129",
+   "icd11Label": "Traditional Medicine Neck pain",
+   "symptoms": [
+    "neck pain",
+    "neck stiffness",
+    "shoulder pain"
+   ]
+  },
+  {
+   "term": "Sori (Scabies)",
+   "namasteCode": "S_SO.7.30",
+   "icd11Code": "SB130",
+   "icd11Label": "Traditional Medicine Scabies",
+   "symptoms": [
+    "itching",
+    "rash",
+    "night itching",
+    "skin burrows"
+   ]
+  },
+  {
+   "term": "Padarthamarai (Ringworm)",
+   "namasteCode": "S_PA.7.31",
+   "icd11Code": "SB131",
+   "icd11Label": "Traditional Medicine Ringworm",
+   "symptoms": [
+    "ring shaped rash",
+    "itching",
+    "redness",
+    "scaling"
+   ]
+  },
+  {
+   "term": "Soriyasis (Psoriasis)",
+   "namasteCode": "S_SO.7.32",
+   "icd11Code": "SB132",
+   "icd11Label": "Traditional Medicine Psoriasis",
+   "symptoms": [
+    "scaly patches",
+    "itching",
+    "dry skin",
+    "thick skin"
+   ]
+  },
+  {
+   "term": "Karappan (Eczema)",
+   "namasteCode": "S_KA.7.33",
+   "icd11Code": "SB133",
+   "icd11Label": "Traditional Medicine Eczema",
+   "symptoms": [
+    "itching",
+    "oozing",
+    "rash",
+    "dryness"
+   ]
+  },
+  {
+   "term": "Pitha Ezhuchi (Urticaria)",
+   "namasteCode": "S_PI.7.34",
+   "icd11Code": "SB134",
+   "icd11Label": "Traditional Medicine Urticaria",
+   "symptoms": [
+    "hives",
+    "itching",
+    "rash",
+    "swelling"
+   ]
+  },
+  {
+   "term": "Mugapparu (Acne)",
+   "namasteCode": "S_MU.7.35",
+   "icd11Code": "SB135",
+   "icd11Label": "Traditional Medicine Acne",
+   "symptoms": [
+    "pimples",
+    "oily skin",
+    "blackheads"
+   ]
+  },
+  {
+   "term": "Mudhi Uthirvu (Hair fall)",
+   "namasteCode": "S_MU.7.36",
+   "icd11Code": "SB136",
+   "icd11Label": "Traditional Medicine Hair fall",
+   "symptoms": [
+    "hair loss",
+    "thinning hair",
+    "dandruff"
+   ]
+  },
+  {
+   "term": "Veekkam (Swelling)",
+   "namasteCode": "S_VE.7.37",
+   "icd11Code": "SB137",
+   "icd11Label": "Traditional Medicine Swelling",
+   "symptoms": [
+    "swelling",
+    "puffiness",
+    "heaviness"
+   ]
+  },
+  {
+   "term": "Vizhi Noi (Eye irritation)",
+   "namasteCode": "S_VI.7.38",
+   "icd11Code": "SB138",
+   "icd11Label": "Traditional Medicine Eye irritation",
+   "symptoms": [
+    "red eyes",
+    "watering",
+    "itching eyes",
+    "burning eyes"
+   ]
+  },
+  {
+   "term": "Sevi Vali (Earache)",
+   "namasteCode": "S_SE.7.39",
+   "icd11Code": "SB139",
+   "icd11Label": "Traditional Medicine Earache",
+   "symptoms": [
+    "ear pain",
+    "hearing loss",
+    "ear discharge"
+   ]
+  },
+  {
+   "term": "Vaai Pun (Mouth ulcers)",
+   "namasteCode": "S_VA.7.40",
+   "icd11Code": "SB140",
+   "icd11Label": "Traditional Medicine Mouth ulcers",
+   "symptoms": [
+    "mouth ulcers",
+    "burning mouth",
+    "painful chewing"
+   ]
+  },
+  {
+   "term": "Pul Noi (Intestinal worms)",
+   "namasteCode": "S_PU.7.41",
+   "icd11Code": "SB141",
+   "icd11Label": "Traditional Medicine Intestinal worms",
+   "symptoms": [
+    "abdominal pain",
+    "anal itching",
+    "loss of appetite",
+    "weight loss"
+   ]
+  },
+  {
+   "term": "Thondai Noi (Sore throat)",
+   "namasteCode": "S_TH.7.42",
+   "icd11Code": "SB142",
+   "icd11Label": "Traditional Medicine Sore throat",
+   "symptoms": [
+    "sore throat",
+    "painful swallowing",
+    "hoarseness",
+    "fever"
+   ]
+  },
+  {
+   "term": "Kuralvalai Vali (Tonsillitis)",
+   "namasteCode": "S_KU.7.43",
+   "icd11Code": "SB143",
+   "icd11Label": "Traditional Medicine Tonsillitis",
+   "symptoms": [
+    "sore throat",
+    "painful swallowing",
+    "swollen tonsils",
+    "fever"
+   ]
+  },
+  {
+   "term": "Suvaasa Kaasam (Bronchitis)",
+   "namasteCode": "S_SU.7.44",
+   "icd11Code": "SB144",
+   "icd11Label": "Traditional Medicine Bronchitis",
+   "symptoms": [
+    "cough",
+    "phlegm",
+    "chest tightness",
+    "breathlessness"
+   ]
+  },
+  {
+   "term": "Soolai Noi (Abdominal pain)",
+   "namasteCode": "S_SO.7.45",
+   "icd11Code": "SB145",
+   "icd11Label": "Traditional Medicine Abdominal pain",
+   "symptoms": [
+    "abdominal pain",
+    "cramps",
+    "bloating",
+    "nausea"
+   ]
+  },
+  {
+   "term": "Nenjerichal (Acidity)",
+   "namasteCode": "S_NE.7.46",
+   "icd11Code": "SB146",
+   "icd11Label": "Traditional Medicine Acidity",
+   "symptoms": [
+    "acidity",
+    "heartburn",
+    "burning",
+    "sour belching",
+    "vomiting"
+   ]
+  },
+  {
+   "term": "Thegam Soodu (Body heat)",
+   "namasteCode": "S_TH.7.47",
+   "icd11Code": "SB147",
+   "icd11Label": "Traditional Medicine Body heat",
+   "symptoms": [
+    "body heat",
+    "burning sensation",
+    "thirst",
+    "headache"
+   ]
+  }
+ ],
+ "Unani": [
+  {
+   "term": "Humma-e-Balghami",
+   "namasteCode": "U_HB.3.1",
+   "icd11Code": "SF70",
+   "icd11Label": "Traditional Medicine Fever, Phlegmatic",
+   "symptoms": [
+    "fever",
+    "phlegm",
+    "heaviness",
+    "cold",
+    "runny nose",
+    "drowsiness",
+    "lethargy"
+   ]
+  },
+  {
+   "term": "Humma-e-Damwi",
+   "namasteCode": "U_HB.3.2",
+   "icd11Code": "SF71",
+   "icd11Label": "Traditional Medicine Fever, Sanguine",
+   "symptoms": [
+    "fever",
+    "headache",
+    "flushed face",
+    "red eyes",
+    "body heat",
+    "nosebleed"
+   ]
+  },
+  {
+   "term": "Humma-e-Safrawi",
+   "namasteCode": "U_HB.3.3",
+   "icd11Code": "SF72",
+   "icd11Label": "Traditional Medicine Fever, Bilious",
+   "symptoms": [
+    "fever",
+    "vomiting",
+    "bitter taste",
+    "thirst",
+    "burning",
+    "dry mouth"
+   ]
+  },
+  {
+   "term": "Zukam (Common cold)",
+   "namasteCode": "U_ZU.8.1",
+   "icd11Code": "SC101",
+   "icd11Label": "Traditional Medicine Common cold",
+   "symptoms": [
+    "runny nose",
+    "sneezing",
+    "nasal block",
+    "sore throat",
+    "headache",
+    "cold"
+   ]
+  },
+  {
+   "term": "Nazla (Catarrh)",
+   "namasteCode": "U_NA.8.2",
+   "icd11Code": "SC102",
+   "icd11Label": "Traditional Medicine Catarrh",
+   "symptoms": [
+    "runny nose",
+    "nasal discharge",
+    "sneezing",
+    "heaviness of head"
+   ]
+  },
+  {
+   "term": "Sual (Cough)",
+   "namasteCode": "U_SU.8.3",
+   "icd11Code": "SC103",
+   "icd11Label": "Traditional Medicine Cough",
+   "symptoms": [
+    "cough",
+    "phlegm",
+    "throat irritation",
+    "chest pain"
+   ]
+  },
+  {
+   "term": "Zeeq-un-Nafas (Asthma)",
+   "namasteCode": "U_ZE.8.4",
+   "icd11Code": "SC104",
+   "icd11Label": "Traditional Medicine Asthma",
+   "symptoms": [
+    "breathlessness",
+    "wheezing",
+    "chest tightness",
+    "cough",
+    "difficulty breathing"
+   ]
+  },
+  {
+   "term": "Ishal (Diarrhea)",
+   "namasteCode": "U_IS.8.5",
+   "icd11Code": "SC105",
+   "icd11Label": "Traditional Medicine Diarrhea",
+   "symptoms": [
+    "loose stools",
+    "diarrhea",
+    "abdominal pain",
+    "dehydration",
+    "weakness"
+   ]
+  },
+  {
+   "term": "Zaheer (Dysentery)",
+   "namasteCode": "U_ZA.8.6",
+   "icd11Code": "SC106",
+   "icd11Label": "Traditional Medicine Dysentery",
+   "symptoms": [
+    "blood in stool",
+    "mucus in stool",
+    "abdominal cramps",
+    "straining",
+    "fever"
+   ]
+  },
+  {
+   "term": "Qabz (Constipation)",
+   "namasteCode": "U_QA.8.7",
+   "icd11Code": "SC107",
+   "icd11Label": "Traditional Medicine Constipation",
+   "symptoms": [
+    "constipation",
+    "hard stools",
+    "bloating",
+    "straining"
+   ]
+  },
+  {
+   "term": "Bawaseer (Piles)",
+   "namasteCode": "U_BA.8.8",
+   "icd11Code": "SC108",
+   "icd11Label": "Traditional Medicine Piles",
+   "symptoms": [
+    "bleeding",
+    "pain while passing stool",
+    "constipation",
+    "itching"
+   ]
+  },
+  {
+   "term": "Su-e-Hazm (Indigestion)",
+   "namasteCode": "U_SU.8.9",
+   "icd11Code": "SC109",
+   "icd11Label": "Traditional Medicine Indigestion",
+   "symptoms": [
+    "indigestion",
+    "bloating",
+    "heaviness",
+    "belching",
+    "nausea"
+   ]
+  },
+  {
+   "term": "Qai (Vomiting)",
+   "namasteCode": "U_QA.8.10",
+   "icd11Code": "SC110",
+   "icd11Label": "Traditional Medicine Vomiting",
+   "symptoms": [
+    "vomiting",
+    "nausea",
+    "salivation",
+    "loss of appetite"
+   ]
+  },
+  {
+   "term": "Zof-e-Ishteha (Loss of appetite)",
+   "namasteCode": "U_ZO.8.11",
+   "icd11Code": "SC111",
+   "icd11Label": "Traditional Medicine Loss of appetite",
+   "symptoms": [
+    "loss of appetite",
+    "bad taste",
+    "weakness",
+    "nausea"
+   ]
+  },
+  {
+   "term": "Atash (Excessive thirst)",
+   "namasteCode": "U_AT.8.12",
+   "icd11Code": "SC112",
+   "icd11Label": "Traditional Medicine Excessive thirst",
+   "symptoms": [
+    "thirst",
+    "dry mouth",
+    "dry throat",
+    "weakness"
+   ]
+  },
+  {
+   "term": "Suda (Headache)",
+   "namasteCode": "U_SU.8.13",
+   "icd11Code": "SC113",
+   "icd11Label": "Traditional Medicine Headache",
+   "symptoms": [
+    "headache",
+    "head heaviness",
+    "throbbing pain",
+    "eye strain"
+   ]
+  },
+  {
+   "term": "Shaqeeqa (Migraine)",
+   "namasteCode": "U_SH.8.14",
+   "icd11Code": "SC114",
+   "icd11Label": "Traditional Medicine Migraine",
+   "symptoms": [
+    "one sided headache",
+    "nausea",
+    "vomiting",
+    "light sensitivity"
+   ]
+  },
+  {
+   "term": "Ziabetus Sukkari (Diabetes)",
+   "namasteCode": "U_ZI.8.15",
+   "icd11Code": "SC115",
+   "icd11Label": "Traditional Medicine Diabetes",
+   "symptoms": [
+    "excessive thirst",
+    "frequent urination",
+    "fatigue",
+    "weight loss",
+    "increased hunger"
+   ]
+  },
+  {
+   "term": "Siman Mufrit (Obesity)",
+   "namasteCode": "U_SI.8.16",
+   "icd11Code": "SC116",
+   "icd11Label": "Traditional Medicine Obesity",
+   "symptoms": [
+    "weight gain",
+    "breathlessness",
+    "excess sweating",
+    "fatigue"
+   ]
+  },
+  {
+   "term": "Hurqat-ul-Bawl (Burning urination)",
+   "namasteCode": "U_HU.8.17",
+   "icd11Code": "SC117",
+   "icd11Label": "Traditional Medicine Burning urination",
+   "symptoms": [
+    "burning urination",
+    "painful urination",
+    "frequent urination",
+    "lower abdominal pain"
+   ]
+  },
+  {
+   "term": "Hasat-e-Kulya (Kidney stone)",
+   "namasteCode": "U_HA.8.18",
+   "icd11Code": "SC118",
+   "icd11Label": "Traditional Medicine Kidney stone",
+   "symptoms": [
+    "severe flank pain",
+    "blood in urine",
+    "painful urination",
+    "vomiting"
+   ]
+  },
+  {
+   "term": "Waj-ul-Mafasil (Joint pain)",
+   "namasteCode": "U_WA.8.19",
+   "icd11Code": "SC119",
+   "icd11Label": "Traditional Medicine Joint pain",
+   "symptoms": [
+    "joint pain",
+    "joint stiffness",
+    "swelling",
+    "difficulty walking"
+   ]
+  },
+  {
+   "term": "Niqris (Gout)",
+   "namasteCode": "U_NI.8.20",
+   "icd11Code": "SC120",
+   "icd11Label": "Traditional Medicine Gout",
+   "symptoms": [
+    "joint pain",
+    "redness",
+    "swelling",
+    "burning",
+    "big toe pain"
+   ]
+  },
+  {
+   "term": "Irq-un-Nasa (Sciatica)",
+   "namasteCode": "U_IR.8.21",
+   "icd11Code": "SC121",
+   "icd11Label": "Traditional Medicine Sciatica",
+   "symptoms": [
+    "leg pain",
+    "low back pain",
+    "numbness",
+    "tingling"
+   ]
+  },
+  {
+   "term": "Waj-ul-Zahr (Backache)",
+   "namasteCode": "U_WA.8.22",
+   "icd11Code": "SC122",
+   "icd11Label": "Traditional Medicine Backache",
+   "symptoms": [
+    "low back pain",
+    "stiffness",
+    "pain on bending",
+    "muscle spasm"
+   ]
+  },
+  {
+   "term": "Laqwa (Facial paralysis)",
+   "namasteCode": "U_LA.8.23",
+   "icd11Code": "SC123",
+   "icd11Label": "Traditional Medicine Facial paralysis",
+   "symptoms": [
+    "facial droop",
+    "difficulty closing eye",
+    "slurred speech",
+    "drooling"
+   ]
+  },
+  {
+   "term": "Falij (Paralysis)",
+   "namasteCode": "U_FA.8.24",
+   "icd11Code": "SC124",
+   "icd11Label": "Traditional Medicine Paralysis",
+   "symptoms": [
+    "weakness one side",
+    "slurred speech",
+    "numbness",
+    "difficulty walking"
+   ]
+  },
+  {
+   "term": "Sar (Epilepsy)",
+   "namasteCode": "U_SA.8.25",
+   "icd11Code": "SC125",
+   "icd11Label": "Traditional Medicine Epilepsy",
+   "symptoms": [
+    "seizures",
+    "loss of consciousness",
+    "convulsions",
+    "frothing"
+   ]
+  },
+  {
+   "term": "Malikhulia (Depression)",
+   "namasteCode": "U_MA.8.26",
+   "icd11Code": "SC126",
+   "icd11Label": "Traditional Medicine Depression",
+   "symptoms": [
+    "sadness",
+    "low mood",
+    "loss of interest",
+    "fatigue",
+    "hopelessness"
+   ]
+  },
+  {
+   "term": "Qalaq (Anxiety)",
+   "namasteCode": "U_QA.8.27",
+   "icd11Code": "SC127",
+   "icd11Label": "Traditional Medicine Anxiety",
+   "symptoms": [
+    "anxiety",
+    "restlessness",
+    "palpitations",
+    "worry",
+    "fear"
+   ]
+  },
+  {
+   "term": "Sahar (Insomnia)",
+   "namasteCode": "U_SA.8.28",
+   "icd11Code": "SC128",
+   "icd11Label": "Traditional Medicine Insomnia",
+   "symptoms": [
+    "sleeplessness",
+    "difficulty falling asleep",
+    "waking at night"
+   ]
+  },
+  {
+   "term": "Zaghtuddam Qawi (Hypertension)",
+   "namasteCode": "U_ZA.8.29",
+   "icd11Code": "SC129",
+   "icd11Label": "Traditional Medicine Hypertension",
+   "symptoms": [
+    "headache",
+    "dizziness",
+    "palpitations",
+    "blurred vision"
+   ]
+  },
+  {
+   "term": "Khafqan (Palpitation)",
+   "namasteCode": "U_KH.8.30",
+   "icd11Code": "SC130",
+   "icd11Label": "Traditional Medicine Palpitation",
+   "symptoms": [
+    "palpitations",
+    "chest discomfort",
+    "anxiety",
+    "breathlessness"
+   ]
+  },
+  {
+   "term": "Faqr-ud-Dam (Anemia)",
+   "namasteCode": "U_FA.8.31",
+   "icd11Code": "SC131",
+   "icd11Label": "Traditional Medicine Anemia",
+   "symptoms": [
+    "pallor",
+    "fatigue",
+    "weakness",
+    "dizziness",
+    "breathlessness"
+   ]
+  },
+  {
+   "term": "Yarqan (Jaundice)",
+   "namasteCode": "U_YA.8.32",
+   "icd11Code": "SC132",
+   "icd11Label": "Traditional Medicine Jaundice",
+   "symptoms": [
+    "yellow eyes",
+    "yellow skin",
+    "dark urine",
+    "loss of appetite"
+   ]
+  },
+  {
+   "term": "Bars (Vitiligo)",
+   "namasteCode": "U_BA.8.33",
+   "icd11Code": "SC133",
+   "icd11Label": "Traditional Medicine Vitiligo",
+   "symptoms": [
+    "white patches",
+    "skin discoloration",
+    "patch spreading"
+   ]
+  },
+  {
+   "term": "Jarab (Scabies)",
+   "namasteCode": "U_JA.8.34",
+   "icd11Code": "SC134",
+   "icd11Label": "Traditional Medicine Scabies",
+   "symptoms": [
+    "itching",
+    "rash",
+    "night itching",
+    "skin burrows"
+   ]
+  },
+  {
+   "term": "Quba (Ringworm)",
+   "namasteCode": "U_QU.8.35",
+   "icd11Code": "SC135",
+   "icd11Label": "Traditional Medicine Ringworm",
+   "symptoms": [
+    "ring shaped rash",
+    "itching",
+    "redness",
+    "scaling"
+   ]
+  },
+  {
+   "term": "Sharā (Urticaria)",
+   "namasteCode": "U_SH.8.36",
+   "icd11Code": "SC136",
+   "icd11Label": "Traditional Medicine Urticaria",
+   "symptoms": [
+    "hives",
+    "itching",
+    "rash",
+    "swelling"
+   ]
+  },
+  {
+   "term": "Busoor-e-Labaniya (Acne)",
+   "namasteCode": "U_BU.8.37",
+   "icd11Code": "SC137",
+   "icd11Label": "Traditional Medicine Acne",
+   "symptoms": [
+    "pimples",
+    "oily skin",
+    "blackheads"
+   ]
+  },
+  {
+   "term": "Suqoot-ush-Shar (Hair fall)",
+   "namasteCode": "U_SU.8.38",
+   "icd11Code": "SC138",
+   "icd11Label": "Traditional Medicine Hair fall",
+   "symptoms": [
+    "hair loss",
+    "thinning hair",
+    "dandruff"
+   ]
+  },
+  {
+   "term": "Waram (Inflammation)",
+   "namasteCode": "U_WA.8.39",
+   "icd11Code": "SC139",
+   "icd11Label": "Traditional Medicine Inflammation",
+   "symptoms": [
+    "swelling",
+    "redness",
+    "pain",
+    "warmth"
+   ]
+  },
+  {
+   "term": "Dod-e-Am (Intestinal worms)",
+   "namasteCode": "U_DO.8.40",
+   "icd11Code": "SC140",
+   "icd11Label": "Traditional Medicine Intestinal worms",
+   "symptoms": [
+    "abdominal pain",
+    "anal itching",
+    "loss of appetite",
+    "weight loss"
+   ]
+  },
+  {
+   "term": "Ramad (Conjunctivitis)",
+   "namasteCode": "U_RA.8.41",
+   "icd11Code": "SC141",
+   "icd11Label": "Traditional Medicine Conjunctivitis",
+   "symptoms": [
+    "red eyes",
+    "watering",
+    "itching eyes",
+    "eye discharge"
+   ]
+  },
+  {
+   "term": "Waj-ul-Uzn (Earache)",
+   "namasteCode": "U_WA.8.42",
+   "icd11Code": "SC142",
+   "icd11Label": "Traditional Medicine Earache",
+   "symptoms": [
+    "ear pain",
+    "hearing loss",
+    "ear discharge"
+   ]
+  },
+  {
+   "term": "Qula (Mouth ulcers)",
+   "namasteCode": "U_QU.8.43",
+   "icd11Code": "SC143",
+   "icd11Label": "Traditional Medicine Mouth ulcers",
+   "symptoms": [
+    "mouth ulcers",
+    "burning mouth",
+    "painful chewing"
+   ]
+  },
+  {
+   "term": "Sailan-ur-Rehm (Leucorrhea)",
+   "namasteCode": "U_SA.8.44",
+   "icd11Code": "SC144",
+   "icd11Label": "Traditional Medicine Leucorrhea",
+   "symptoms": [
+    "white discharge",
+    "itching",
+    "lower abdominal pain",
+    "weakness"
+   ]
+  },
+  {
+   "term": "Usr-e-Tamth (Painful periods)",
+   "namasteCode": "U_US.8.45",
+   "icd11Code": "SC145",
+   "icd11Label": "Traditional Medicine Painful periods",
+   "symptoms": [
+    "painful periods",
+    "lower abdominal cramps",
+    "back pain",
+    "nausea"
+   ]
+  },
+  {
+   "term": "Kasrat-e-Tamth (Heavy periods)",
+   "namasteCode": "U_KA.8.46",
+   "icd11Code": "SC146",
+   "icd11Label": "Traditional Medicine Heavy periods",
+   "symptoms": [
+    "heavy bleeding",
+    "prolonged periods",
+    "weakness",
+    "dizziness"
+   ]
+  },
+  {
+   "term": "Iltehab-e-Halaq (Sore throat)",
+   "namasteCode": "U_IL.8.47",
+   "icd11Code": "SC147",
+   "icd11Label": "Traditional Medicine Sore throat",
+   "symptoms": [
+    "sore throat",
+    "painful swallowing",
+    "hoarseness",
+    "fever"
+   ]
+  }
+ ],
+ "Yoga & Naturopathy": [
+  {
+   "term": "Agnimandya",
+   "namasteCode": "Y_AG.4.1",
+   "icd11Code": "SG10",
+   "icd11Label": "Traditional Medicine Digestive Weakness",
+   "symptoms": [
+    "indigestion",
+    "bloating",
+    "gas",
+    "loss of appetite",
+    "heaviness after meals",
+    "stomach pain",
+    "nausea"
+   ]
+  },
+  {
+   "term": "Vata Vikruti",
+   "namasteCode": "Y_VV.4.2",
+   "icd11Code": "SG11",
+   "icd11Label": "Traditional Medicine Constitutional Imbalance",
+   "symptoms": [
+    "gas",
+    "constipation",
+    "anxiety",
+    "dry skin",
+    "joint pain",
+    "insomnia",
+    "restlessness"
+   ]
+  },
+  {
+   "term": "Sthaulya (Obesity)",
+   "namasteCode": "Y_ST.9.1",
+   "icd11Code": "SD101",
+   "icd11Label": "Traditional Medicine Obesity",
+   "symptoms": [
+    "weight gain",
+    "breathlessness",
+    "excess sweating",
+    "fatigue",
+    "joint pain"
+   ]
+  },
+  {
+   "term": "Madhumeha (Diabetes)",
+   "namasteCode": "Y_MA.9.2",
+   "icd11Code": "SD102",
+   "icd11Label": "Traditional Medicine Diabetes",
+   "symptoms": [
+    "excessive thirst",
+    "frequent urination",
+    "fatigue",
+    "weight loss",
+    "increased hunger"
+   ]
+  },
+  {
+   "term": "Raktachapa (Hypertension)",
+   "namasteCode": "Y_RA.9.3",
+   "icd11Code": "SD103",
+   "icd11Label": "Traditional Medicine Hypertension",
+   "symptoms": [
+    "headache",
+    "dizziness",
+    "palpitations",
+    "blurred vision",
+    "neck pain"
+   ]
+  },
+  {
+   "term": "Hridroga (Heart disease)",
+   "namasteCode": "Y_HR.9.4",
+   "icd11Code": "SD104",
+   "icd11Label": "Traditional Medicine Heart disease",
+   "symptoms": [
+    "chest pain",
+    "palpitations",
+    "breathlessness",
+    "sweating",
+    "fatigue"
+   ]
+  },
+  {
+   "term": "Shwasa Roga (Bronchial asthma)",
+   "namasteCode": "Y_SH.9.5",
+   "icd11Code": "SD105",
+   "icd11Label": "Traditional Medicine Bronchial asthma",
+   "symptoms": [
+    "breathlessness",
+    "wheezing",
+    "chest tightness",
+    "cough"
+   ]
+  },
+  {
+   "term": "Pratishyaya (Allergic rhinitis)",
+   "namasteCode": "Y_PR.9.6",
+   "icd11Code": "SD106",
+   "icd11Label": "Traditional Medicine Allergic rhinitis",
+   "symptoms": [
+    "sneezing",
+    "runny nose",
+    "itchy eyes",
+    "nasal block"
+   ]
+  },
+  {
+   "term": "Peenasa (Sinusitis)",
+   "namasteCode": "Y_PE.9.7",
+   "icd11Code": "SD107",
+   "icd11Label": "Traditional Medicine Sinusitis",
+   "symptoms": [
+    "nasal block",
+    "facial heaviness",
+    "headache",
+    "runny nose"
+   ]
+  },
+  {
+   "term": "Malabaddhata (Constipation)",
+   "namasteCode": "Y_MA.9.8",
+   "icd11Code": "SD108",
+   "icd11Label": "Traditional Medicine Constipation",
+   "symptoms": [
+    "constipation",
+    "hard stools",
+    "bloating",
+    "straining"
+   ]
+  },
+  {
+   "term": "Grahani Roga (Irritable bowel)",
+   "namasteCode": "Y_GR.9.9",
+   "icd11Code": "SD109",
+   "icd11Label": "Traditional Medicine Irritable bowel",
+   "symptoms": [
+    "loose stools",
+    "constipation",
+    "bloating",
+    "abdominal pain"
+   ]
+  },
+  {
+   "term": "Arsha (Piles)",
+   "namasteCode": "Y_AR.9.10",
+   "icd11Code": "SD110",
+   "icd11Label": "Traditional Medicine Piles",
+   "symptoms": [
+    "bleeding",
+    "pain while passing stool",
+    "constipation",
+    "itching"
+   ]
+  },
+  {
+   "term": "Ardhavabhedaka (Migraine)",
+   "namasteCode": "Y_AR.9.11",
+   "icd11Code": "SD111",
+   "icd11Label": "Traditional Medicine Migraine",
+   "symptoms": [
+    "one sided headache",
+    "nausea",
+    "vomiting",
+    "light sensitivity"
+   ]
+  },
+  {
+   "term": "Shiroshula (Tension headache)",
+   "namasteCode": "Y_SH.9.12",
+   "icd11Code": "SD112",
+   "icd11Label": "Traditional Medicine Tension headache",
+   "symptoms": [
+    "headache",
+    "head heaviness",
+    "neck stiffness",
+    "eye strain",
+    "stress"
+   ]
+  },
+  {
+   "term": "Anidra (Insomnia)",
+   "namasteCode": "Y_AN.9.13",
+   "icd11Code": "SD113",
+   "icd11Label": "Traditional Medicine Insomnia",
+   "symptoms": [
+    "sleeplessness",
+    "difficulty falling asleep",
+    "waking at night",
+    "daytime tiredness"
+   ]
+  },
+  {
+   "term": "Chittodvega (Anxiety)",
+   "namasteCode": "Y_CH.9.14",
+   "icd11Code": "SD114",
+   "icd11Label": "Traditional Medicine Anxiety",
+   "symptoms": [
+    "anxiety",
+    "restlessness",
+    "palpitations",
+    "worry",
+    "fear"
+   ]
+  },
+  {
+   "term": "Avasada (Depression)",
+   "namasteCode": "Y_AV.9.15",
+   "icd11Code": "SD115",
+   "icd11Label": "Traditional Medicine Depression",
+   "symptoms": [
+    "sadness",
+    "low mood",
+    "loss of interest",
+    "fatigue",
+    "hopelessness"
+   ]
+  },
+  {
+   "term": "Manasika Tanava (Stress)",
+   "namasteCode": "Y_MA.9.16",
+   "icd11Code": "SD116",
+   "icd11Label": "Traditional Medicine Stress",
+   "symptoms": [
+    "stress",
+    "irritability",
+    "tension",
+    "poor concentration",
+    "fatigue"
+   ]
+  },
+  {
+   "term": "Greeva Shula (Cervical spondylosis)",
+   "namasteCode": "Y_GR.9.17",
+   "icd11Code": "SD117",
+   "icd11Label": "Traditional Medicine Cervical spondylosis",
+   "symptoms": [
+    "neck pain",
+    "neck stiffness",
+    "shoulder pain",
+    "tingling in arms"
+   ]
+  },
+  {
+   "term": "Katishula (Low back pain)",
+   "namasteCode": "Y_KA.9.18",
+   "icd11Code": "SD118",
+   "icd11Label": "Traditional Medicine Low back pain",
+   "symptoms": [
+    "low back pain",
+    "stiffness",
+    "pain on bending",
+    "muscle spasm"
+   ]
+  },
+  {
+   "term": "Sandhivata (Osteoarthritis)",
+   "namasteCode": "Y_SA.9.19",
+   "icd11Code": "SD119",
+   "icd11Label": "Traditional Medicine Osteoarthritis",
+   "symptoms": [
+    "knee pain",
+    "joint stiffness",
+    "cracking joints",
+    "swelling"
+   ]
+  },
+  {
+   "term": "Amavata (Rheumatoid arthritis)",
+   "namasteCode": "Y_AM.9.20",
+   "icd11Code": "SD120",
+   "icd11Label": "Traditional Medicine Rheumatoid arthritis",
+   "symptoms": [
+    "joint pain",
+    "joint swelling",
+    "morning stiffness",
+    "fatigue"
+   ]
+  },
+  {
+   "term": "Gridhrasi (Sciatica)",
+   "namasteCode": "Y_GR.9.21",
+   "icd11Code": "SD121",
+   "icd11Label": "Traditional Medicine Sciatica",
+   "symptoms": [
+    "leg pain",
+    "low back pain",
+    "numbness",
+    "tingling"
+   ]
+  },
+  {
+   "term": "Avabahuka (Frozen shoulder)",
+   "namasteCode": "Y_AV.9.22",
+   "icd11Code": "SD122",
+   "icd11Label": "Traditional Medicine Frozen shoulder",
+   "symptoms": [
+    "shoulder pain",
+    "restricted shoulder movement",
+    "stiffness",
+    "night pain"
+   ]
+  },
+  {
+   "term": "Vatakantaka (Heel pain)",
+   "namasteCode": "Y_VA.9.23",
+   "icd11Code": "SD123",
+   "icd11Label": "Traditional Medicine Heel pain",
+   "symptoms": [
+    "heel pain",
+    "pain on first steps",
+    "foot stiffness"
+   ]
+  },
+  {
+   "term": "Pandu (Anemia)",
+   "namasteCode": "Y_PA.9.24",
+   "icd11Code": "SD124",
+   "icd11Label": "Traditional Medicine Anemia",
+   "symptoms": [
+    "pallor",
+    "fatigue",
+    "weakness",
+    "dizziness",
+    "breathlessness"
+   ]
+  },
+  {
+   "term": "Galaganda (Thyroid disorder)",
+   "namasteCode": "Y_GA.9.25",
+   "icd11Code": "SD125",
+   "icd11Label": "Traditional Medicine Thyroid disorder",
+   "symptoms": [
+    "neck swelling",
+    "weight change",
+    "fatigue",
+    "cold intolerance"
+   ]
+  },
+  {
+   "term": "Artava Kshaya (PCOS)",
+   "namasteCode": "Y_AR.9.26",
+   "icd11Code": "SD126",
+   "icd11Label": "Traditional Medicine PCOS",
+   "symptoms": [
+    "irregular periods",
+    "weight gain",
+    "acne",
+    "excess facial hair"
+   ]
+  },
+  {
+   "term": "Kashtartava (Painful periods)",
+   "namasteCode": "Y_KA.9.27",
+   "icd11Code": "SD127",
+   "icd11Label": "Traditional Medicine Painful periods",
+   "symptoms": [
+    "painful periods",
+    "lower abdominal cramps",
+    "back pain",
+    "nausea"
+   ]
+  },
+  {
+   "term": "Asrigdara (Heavy periods)",
+   "namasteCode": "Y_AS.9.28",
+   "icd11Code": "SD128",
+   "icd11Label": "Traditional Medicine Heavy periods",
+   "symptoms": [
+    "heavy bleeding",
+    "prolonged periods",
+    "weakness",
+    "dizziness"
+   ]
+  },
+  {
+   "term": "Shweta Pradara (Leucorrhea)",
+   "namasteCode": "Y_SH.9.29",
+   "icd11Code": "SD129",
+   "icd11Label": "Traditional Medicine Leucorrhea",
+   "symptoms": [
+    "white discharge",
+    "itching",
+    "lower abdominal pain",
+    "weakness"
+   ]
+  },
+  {
+   "term": "Rajonivritti (Menopausal symptoms)",
+   "namasteCode": "Y_RA.9.30",
+   "icd11Code": "SD130",
+   "icd11Label": "Traditional Medicine Menopausal symptoms",
+   "symptoms": [
+    "hot flashes",
+    "mood swings",
+    "sleeplessness",
+    "irregular periods"
+   ]
+  },
+  {
+   "term": "Kushtha (Skin disorders)",
+   "namasteCode": "Y_KU.9.31",
+   "icd11Code": "SD131",
+   "icd11Label": "Traditional Medicine Skin disorders",
+   "symptoms": [
+    "skin lesions",
+    "itching",
+    "scaling",
+    "discoloration",
+    "dryness"
+   ]
+  },
+  {
+   "term": "Kitibha (Psoriasis)",
+   "namasteCode": "Y_KI.9.32",
+   "icd11Code": "SD132",
+   "icd11Label": "Traditional Medicine Psoriasis",
+   "symptoms": [
+    "scaly patches",
+    "itching",
+    "dry skin",
+    "thick skin"
+   ]
+  },
+  {
+   "term": "Yuvanapidaka (Acne)",
+   "namasteCode": "Y_YU.9.33",
+   "icd11Code": "SD133",
+   "icd11Label": "Traditional Medicine Acne",
+   "symptoms": [
+    "pimples",
+    "oily skin",
+    "blackheads"
+   ]
+  },
+  {
+   "term": "Khalitya (Hair fall)",
+   "namasteCode": "Y_KH.9.34",
+   "icd11Code": "SD134",
+   "icd11Label": "Traditional Medicine Hair fall",
+   "symptoms": [
+    "hair loss",
+    "thinning hair",
+    "dandruff"
+   ]
+  },
+  {
+   "term": "Yakrit Vikara (Fatty liver)",
+   "namasteCode": "Y_YA.9.35",
+   "icd11Code": "SD135",
+   "icd11Label": "Traditional Medicine Fatty liver",
+   "symptoms": [
+    "abdominal fullness",
+    "fatigue",
+    "right upper abdominal discomfort",
+    "weight gain"
+   ]
+  },
+  {
+   "term": "Kamala (Jaundice)",
+   "namasteCode": "Y_KA.9.36",
+   "icd11Code": "SD136",
+   "icd11Label": "Traditional Medicine Jaundice",
+   "symptoms": [
+    "yellow eyes",
+    "yellow skin",
+    "dark urine",
+    "loss of appetite"
+   ]
+  },
+  {
+   "term": "Ajirna (Indigestion)",
+   "namasteCode": "Y_AJ.9.37",
+   "icd11Code": "SD137",
+   "icd11Label": "Traditional Medicine Indigestion",
+   "symptoms": [
+    "indigestion",
+    "bloating",
+    "heaviness",
+    "belching",
+    "nausea"
+   ]
+  },
+  {
+   "term": "Aruchi (Loss of appetite)",
+   "namasteCode": "Y_AR.9.38",
+   "icd11Code": "SD138",
+   "icd11Label": "Traditional Medicine Loss of appetite",
+   "symptoms": [
+    "loss of appetite",
+    "bad taste",
+    "nausea",
+    "weakness"
+   ]
+  },
+  {
+   "term": "Klama (Chronic fatigue)",
+   "namasteCode": "Y_KL.9.39",
+   "icd11Code": "SD139",
+   "icd11Label": "Traditional Medicine Chronic fatigue",
+   "symptoms": [
+    "fatigue",
+    "tiredness",
+    "muscle weakness",
+    "poor concentration"
+   ]
+  },
+  {
+   "term": "Daurbalya (General weakness)",
+   "namasteCode": "Y_DA.9.40",
+   "icd11Code": "SD140",
+   "icd11Label": "Traditional Medicine General weakness",
+   "symptoms": [
+    "weakness",
+    "fatigue",
+    "dizziness",
+    "loss of stamina"
+   ]
+  },
+  {
+   "term": "Mutrakrichra (Painful urination)",
+   "namasteCode": "Y_MU.9.41",
+   "icd11Code": "SD141",
+   "icd11Label": "Traditional Medicine Painful urination",
+   "symptoms": [
+    "painful urination",
+    "burning urination",
+    "frequent urination",
+    "lower abdominal pain"
+   ]
+  },
+  {
+   "term": "Mutrashmari (Kidney stone)",
+   "namasteCode": "Y_MU.9.42",
+   "icd11Code": "SD142",
+   "icd11Label": "Traditional Medicine Kidney stone",
+   "symptoms": [
+    "severe flank pain",
+    "blood in urine",
+    "painful urination",
+    "vomiting"
+   ]
+  },
+  {
+   "term": "Kasa (Cough)",
+   "namasteCode": "Y_KA.9.43",
+   "icd11Code": "SD143",
+   "icd11Label": "Traditional Medicine Cough",
+   "symptoms": [
+    "cough",
+    "throat irritation",
+    "phlegm",
+    "chest pain"
+   ]
+  },
+  {
+   "term": "Vata Rakta (Gout)",
+   "namasteCode": "Y_VA.9.44",
+   "icd11Code": "SD144",
+   "icd11Label": "Traditional Medicine Gout",
+   "symptoms": [
+    "joint pain",
+    "redness",
+    "swelling",
+    "burning",
+    "big toe pain"
+   ]
+  },
+  {
+   "term": "Pakshaghata (Paralysis recovery)",
+   "namasteCode": "Y_PA.9.45",
+   "icd11Code": "SD145",
+   "icd11Label": "Traditional Medicine Paralysis recovery",
+   "symptoms": [
+    "weakness one side",
+    "numbness",
+    "difficulty walking",
+    "slurred speech"
+   ]
+  },
+  {
+   "term": "Shotha (Swelling)",
+   "namasteCode": "Y_SH.9.46",
+   "icd11Code": "SD146",
+   "icd11Label": "Traditional Medicine Swelling",
+   "symptoms": [
+    "swelling",
+    "puffiness",
+    "heaviness"
+   ]
+  },
+  {
+   "term": "Atisara (Diarrhea)",
+   "namasteCode": "Y_AT.9.47",
+   "icd11Code": "SD147",
+   "icd11Label": "Traditional Medicine Diarrhea",
+   "symptoms": [
+    "loose stools",
+    "diarrhea",
+    "abdominal pain",
+    "dehydration"
+   ]
+  },
+  {
+   "term": "Shiro Bhrama (Vertigo)",
+   "namasteCode": "Y_SH.9.48",
+   "icd11Code": "SD148",
+   "icd11Label": "Traditional Medicine Vertigo",
+   "symptoms": [
+    "dizziness",
+    "spinning sensation",
+    "nausea",
+    "imbalance"
+   ]
+  }
+ ],
+ "Homeopathy": [
+  {
+   "term": "Febris Continua",
+   "namasteCode": "H_FC.5.1",
+   "icd11Code": "SF60",
+   "icd11Label": "Traditional Medicine Continuous Fever",
+   "symptoms": [
+    "fever",
+    "continuous fever",
+    "constant fever",
+    "weakness",
+    "headache"
+   ]
+  },
+  {
+   "term": "Febris Intermittens",
+   "namasteCode": "H_FI.5.2",
+   "icd11Code": "SF61",
+   "icd11Label": "Traditional Medicine Intermittent Fever",
+   "symptoms": [
+    "fever",
+    "intermittent fever",
+    "fever comes and goes",
+    "chills",
+    "sweating",
+    "shivering"
+   ]
+  },
+  {
+   "term": "Coryza (Common cold)",
+   "namasteCode": "H_CO.10.1",
+   "icd11Code": "SE101",
+   "icd11Label": "Traditional Medicine Common cold",
+   "symptoms": [
+    "runny nose",
+    "sneezing",
+    "nasal block",
+    "sore throat",
+    "headache",
+    "cold"
+   ]
+  },
+  {
+   "term": "Influenza (Flu)",
+   "namasteCode": "H_IN.10.2",
+   "icd11Code": "SE102",
+   "icd11Label": "Traditional Medicine Flu",
+   "symptoms": [
+    "fever",
+    "body ache",
+    "chills",
+    "cough",
+    "fatigue",
+    "headache"
+   ]
+  },
+  {
+   "term": "Tonsillitis (Tonsillitis)",
+   "namasteCode": "H_TO.10.3",
+   "icd11Code": "SE103",
+   "icd11Label": "Traditional Medicine Tonsillitis",
+   "symptoms": [
+    "sore throat",
+    "painful swallowing",
+    "swollen tonsils",
+    "fever"
+   ]
+  },
+  {
+   "term": "Pharyngitis (Sore throat)",
+   "namasteCode": "H_PH.10.4",
+   "icd11Code": "SE104",
+   "icd11Label": "Traditional Medicine Sore throat",
+   "symptoms": [
+    "sore throat",
+    "painful swallowing",
+    "hoarseness",
+    "dry throat"
+   ]
+  },
+  {
+   "term": "Bronchitis (Bronchitis)",
+   "namasteCode": "H_BR.10.5",
+   "icd11Code": "SE105",
+   "icd11Label": "Traditional Medicine Bronchitis",
+   "symptoms": [
+    "cough",
+    "phlegm",
+    "chest tightness",
+    "breathlessness"
+   ]
+  },
+  {
+   "term": "Asthma Bronchiale (Asthma)",
+   "namasteCode": "H_AS.10.6",
+   "icd11Code": "SE106",
+   "icd11Label": "Traditional Medicine Asthma",
+   "symptoms": [
+    "breathlessness",
+    "wheezing",
+    "chest tightness",
+    "cough",
+    "difficulty breathing"
+   ]
+  },
+  {
+   "term": "Sinusitis (Sinusitis)",
+   "namasteCode": "H_SI.10.7",
+   "icd11Code": "SE107",
+   "icd11Label": "Traditional Medicine Sinusitis",
+   "symptoms": [
+    "nasal block",
+    "facial heaviness",
+    "headache",
+    "runny nose"
+   ]
+  },
+  {
+   "term": "Rhinitis Allergica (Allergic rhinitis)",
+   "namasteCode": "H_RH.10.8",
+   "icd11Code": "SE108",
+   "icd11Label": "Traditional Medicine Allergic rhinitis",
+   "symptoms": [
+    "sneezing",
+    "runny nose",
+    "itchy eyes",
+    "nasal block"
+   ]
+  },
+  {
+   "term": "Cephalalgia (Headache)",
+   "namasteCode": "H_CE.10.9",
+   "icd11Code": "SE109",
+   "icd11Label": "Traditional Medicine Headache",
+   "symptoms": [
+    "headache",
+    "head heaviness",
+    "throbbing pain",
+    "eye strain"
+   ]
+  },
+  {
+   "term": "Hemicrania (Migraine)",
+   "namasteCode": "H_HE.10.10",
+   "icd11Code": "SE110",
+   "icd11Label": "Traditional Medicine Migraine",
+   "symptoms": [
+    "one sided headache",
+    "nausea",
+    "vomiting",
+    "light sensitivity"
+   ]
+  },
+  {
+   "term": "Gastritis (Gastritis)",
+   "namasteCode": "H_GA.10.11",
+   "icd11Code": "SE111",
+   "icd11Label": "Traditional Medicine Gastritis",
+   "symptoms": [
+    "stomach pain",
+    "burning",
+    "nausea",
+    "vomiting",
+    "bloating",
+    "acidity"
+   ]
+  },
+  {
+   "term": "Dyspepsia (Indigestion)",
+   "namasteCode": "H_DY.10.12",
+   "icd11Code": "SE112",
+   "icd11Label": "Traditional Medicine Indigestion",
+   "symptoms": [
+    "indigestion",
+    "bloating",
+    "heaviness",
+    "belching",
+    "nausea"
+   ]
+  },
+  {
+   "term": "Diarrhoea (Diarrhea)",
+   "namasteCode": "H_DI.10.13",
+   "icd11Code": "SE113",
+   "icd11Label": "Traditional Medicine Diarrhea",
+   "symptoms": [
+    "loose stools",
+    "diarrhea",
+    "abdominal pain",
+    "dehydration",
+    "weakness"
+   ]
+  },
+  {
+   "term": "Dysenteria (Dysentery)",
+   "namasteCode": "H_DY.10.14",
+   "icd11Code": "SE114",
+   "icd11Label": "Traditional Medicine Dysentery",
+   "symptoms": [
+    "blood in stool",
+    "mucus in stool",
+    "abdominal cramps",
+    "straining",
+    "fever"
+   ]
+  },
+  {
+   "term": "Obstipatio (Constipation)",
+   "namasteCode": "H_OB.10.15",
+   "icd11Code": "SE115",
+   "icd11Label": "Traditional Medicine Constipation",
+   "symptoms": [
+    "constipation",
+    "hard stools",
+    "bloating",
+    "straining"
+   ]
+  },
+  {
+   "term": "Haemorrhoides (Piles)",
+   "namasteCode": "H_HA.10.16",
+   "icd11Code": "SE116",
+   "icd11Label": "Traditional Medicine Piles",
+   "symptoms": [
+    "bleeding",
+    "pain while passing stool",
+    "constipation",
+    "itching"
+   ]
+  },
+  {
+   "term": "Vomitus (Vomiting)",
+   "namasteCode": "H_VO.10.17",
+   "icd11Code": "SE117",
+   "icd11Label": "Traditional Medicine Vomiting",
+   "symptoms": [
+    "vomiting",
+    "nausea",
+    "salivation",
+    "loss of appetite"
+   ]
+  },
+  {
+   "term": "Ulcus Ventriculi (Peptic ulcer)",
+   "namasteCode": "H_UL.10.18",
+   "icd11Code": "SE118",
+   "icd11Label": "Traditional Medicine Peptic ulcer",
+   "symptoms": [
+    "stomach pain",
+    "burning",
+    "pain after meals",
+    "nausea",
+    "vomiting"
+   ]
+  },
+  {
+   "term": "Icterus (Jaundice)",
+   "namasteCode": "H_IC.10.19",
+   "icd11Code": "SE119",
+   "icd11Label": "Traditional Medicine Jaundice",
+   "symptoms": [
+    "yellow eyes",
+    "yellow skin",
+    "dark urine",
+    "loss of appetite"
+   ]
+  },
+  {
+   "term": "Cystitis (Urinary infection)",
+   "namasteCode": "H_CY.10.20",
+   "icd11Code": "SE120",
+   "icd11Label": "Traditional Medicine Urinary infection",
+   "symptoms": [
+    "painful urination",
+    "burning urination",
+    "frequent urination",
+    "lower abdominal pain"
+   ]
+  },
+  {
+   "term": "Calculi Renales (Kidney stone)",
+   "namasteCode": "H_CA.10.21",
+   "icd11Code": "SE121",
+   "icd11Label": "Traditional Medicine Kidney stone",
+   "symptoms": [
+    "severe flank pain",
+    "blood in urine",
+    "painful urination",
+    "vomiting"
+   ]
+  },
+  {
+   "term": "Enuresis (Bedwetting)",
+   "namasteCode": "H_EN.10.22",
+   "icd11Code": "SE122",
+   "icd11Label": "Traditional Medicine Bedwetting",
+   "symptoms": [
+    "bedwetting",
+    "night urination",
+    "frequent urination"
+   ]
+  },
+  {
+   "term": "Diabetes Mellitus (Diabetes)",
+   "namasteCode": "H_DI.10.23",
+   "icd11Code": "SE123",
+   "icd11Label": "Traditional Medicine Diabetes",
+   "symptoms": [
+    "excessive thirst",
+    "frequent urination",
+    "fatigue",
+    "weight loss",
+    "increased hunger"
+   ]
+  },
+  {
+   "term": "Hypertensio (Hypertension)",
+   "namasteCode": "H_HY.10.24",
+   "icd11Code": "SE124",
+   "icd11Label": "Traditional Medicine Hypertension",
+   "symptoms": [
+    "headache",
+    "dizziness",
+    "palpitations",
+    "blurred vision"
+   ]
+  },
+  {
+   "term": "Angina Pectoris (Angina)",
+   "namasteCode": "H_AN.10.25",
+   "icd11Code": "SE125",
+   "icd11Label": "Traditional Medicine Angina",
+   "symptoms": [
+    "chest pain",
+    "breathlessness",
+    "sweating",
+    "pain in left arm"
+   ]
+  },
+  {
+   "term": "Anaemia (Anemia)",
+   "namasteCode": "H_AN.10.26",
+   "icd11Code": "SE126",
+   "icd11Label": "Traditional Medicine Anemia",
+   "symptoms": [
+    "pallor",
+    "fatigue",
+    "weakness",
+    "dizziness",
+    "breathlessness"
+   ]
+  },
+  {
+   "term": "Rheumatismus (Arthritis)",
+   "namasteCode": "H_RH.10.27",
+   "icd11Code": "SE127",
+   "icd11Label": "Traditional Medicine Arthritis",
+   "symptoms": [
+    "joint pain",
+    "joint swelling",
+    "morning stiffness",
+    "fatigue"
+   ]
+  },
+  {
+   "term": "Arthritis Urica (Gout)",
+   "namasteCode": "H_AR.10.28",
+   "icd11Code": "SE128",
+   "icd11Label": "Traditional Medicine Gout",
+   "symptoms": [
+    "joint pain",
+    "redness",
+    "swelling",
+    "burning",
+    "big toe pain"
+   ]
+  },
+  {
+   "term": "Lumbago (Low back pain)",
+   "namasteCode": "H_LU.10.29",
+   "icd11Code": "SE129",
+   "icd11Label": "Traditional Medicine Low back pain",
+   "symptoms": [
+    "low back pain",
+    "stiffness",
+    "pain on bending",
+    "muscle spasm"
+   ]
+  },
+  {
+   "term": "Ischias (Sciatica)",
+   "namasteCode": "H_IS.10.30",
+   "icd11Code": "SE130",
+   "icd11Label": "Traditional Medicine Sciatica",
+   "symptoms": [
+    "leg pain",
+    "low back pain",
+    "numbness",
+    "tingling"
+   ]
+  },
+  {
+   "term": "Insomnia (Insomnia)",
+   "namasteCode": "H_IN.10.31",
+   "icd11Code": "SE131",
+   "icd11Label": "Traditional Medicine Insomnia",
+   "symptoms": [
+    "sleeplessness",
+    "difficulty falling asleep",
+    "waking at night",
+    "daytime tiredness"
+   ]
+  },
+  {
+   "term": "Anxietas (Anxiety)",
+   "namasteCode": "H_AN.10.32",
+   "icd11Code": "SE132",
+   "icd11Label": "Traditional Medicine Anxiety",
+   "symptoms": [
+    "anxiety",
+    "restlessness",
+    "palpitations",
+    "worry",
+    "fear"
+   ]
+  },
+  {
+   "term": "Depressio (Depression)",
+   "namasteCode": "H_DE.10.33",
+   "icd11Code": "SE133",
+   "icd11Label": "Traditional Medicine Depression",
+   "symptoms": [
+    "sadness",
+    "low mood",
+    "loss of interest",
+    "fatigue",
+    "hopelessness"
+   ]
+  },
+  {
+   "term": "Eczema (Eczema)",
+   "namasteCode": "H_EC.10.34",
+   "icd11Code": "SE134",
+   "icd11Label": "Traditional Medicine Eczema",
+   "symptoms": [
+    "itching",
+    "oozing",
+    "rash",
+    "dryness",
+    "redness"
+   ]
+  },
+  {
+   "term": "Urticaria (Hives)",
+   "namasteCode": "H_UR.10.35",
+   "icd11Code": "SE135",
+   "icd11Label": "Traditional Medicine Hives",
+   "symptoms": [
+    "hives",
+    "itching",
+    "rash",
+    "swelling",
+    "redness"
+   ]
+  },
+  {
+   "term": "Acne Vulgaris (Acne)",
+   "namasteCode": "H_AC.10.36",
+   "icd11Code": "SE136",
+   "icd11Label": "Traditional Medicine Acne",
+   "symptoms": [
+    "pimples",
+    "oily skin",
+    "blackheads",
+    "facial scars"
+   ]
+  },
+  {
+   "term": "Psoriasis (Psoriasis)",
+   "namasteCode": "H_PS.10.37",
+   "icd11Code": "SE137",
+   "icd11Label": "Traditional Medicine Psoriasis",
+   "symptoms": [
+    "scaly patches",
+    "itching",
+    "dry skin",
+    "thick skin"
+   ]
+  },
+  {
+   "term": "Tinea (Ringworm)",
+   "namasteCode": "H_TI.10.38",
+   "icd11Code": "SE138",
+   "icd11Label": "Traditional Medicine Ringworm",
+   "symptoms": [
+    "ring shaped rash",
+    "itching",
+    "redness",
+    "scaling"
+   ]
+  },
+  {
+   "term": "Scabies (Scabies)",
+   "namasteCode": "H_SC.10.39",
+   "icd11Code": "SE139",
+   "icd11Label": "Traditional Medicine Scabies",
+   "symptoms": [
+    "itching",
+    "rash",
+    "night itching",
+    "skin burrows"
+   ]
+  },
+  {
+   "term": "Alopecia (Hair fall)",
+   "namasteCode": "H_AL.10.40",
+   "icd11Code": "SE140",
+   "icd11Label": "Traditional Medicine Hair fall",
+   "symptoms": [
+    "hair loss",
+    "thinning hair",
+    "patchy hair loss",
+    "dandruff"
+   ]
+  },
+  {
+   "term": "Conjunctivitis (Conjunctivitis)",
+   "namasteCode": "H_CO.10.41",
+   "icd11Code": "SE141",
+   "icd11Label": "Traditional Medicine Conjunctivitis",
+   "symptoms": [
+    "red eyes",
+    "watering",
+    "itching eyes",
+    "eye discharge"
+   ]
+  },
+  {
+   "term": "Otitis Media (Ear infection)",
+   "namasteCode": "H_OT.10.42",
+   "icd11Code": "SE142",
+   "icd11Label": "Traditional Medicine Ear infection",
+   "symptoms": [
+    "ear pain",
+    "hearing loss",
+    "ear discharge",
+    "fever"
+   ]
+  },
+  {
+   "term": "Stomatitis (Mouth ulcers)",
+   "namasteCode": "H_ST.10.43",
+   "icd11Code": "SE143",
+   "icd11Label": "Traditional Medicine Mouth ulcers",
+   "symptoms": [
+    "mouth ulcers",
+    "burning mouth",
+    "painful chewing",
+    "bad breath"
+   ]
+  },
+  {
+   "term": "Dysmenorrhoea (Painful periods)",
+   "namasteCode": "H_DY.10.44",
+   "icd11Code": "SE144",
+   "icd11Label": "Traditional Medicine Painful periods",
+   "symptoms": [
+    "painful periods",
+    "lower abdominal cramps",
+    "back pain",
+    "nausea"
+   ]
+  },
+  {
+   "term": "Menorrhagia (Heavy periods)",
+   "namasteCode": "H_ME.10.45",
+   "icd11Code": "SE145",
+   "icd11Label": "Traditional Medicine Heavy periods",
+   "symptoms": [
+    "heavy bleeding",
+    "prolonged periods",
+    "weakness",
+    "dizziness"
+   ]
+  },
+  {
+   "term": "Leucorrhoea (Leucorrhea)",
+   "namasteCode": "H_LE.10.46",
+   "icd11Code": "SE146",
+   "icd11Label": "Traditional Medicine Leucorrhea",
+   "symptoms": [
+    "white discharge",
+    "itching",
+    "lower abdominal pain",
+    "weakness"
+   ]
+  },
+  {
+   "term": "Adipositas (Obesity)",
+   "namasteCode": "H_AD.10.47",
+   "icd11Code": "SE147",
+   "icd11Label": "Traditional Medicine Obesity",
+   "symptoms": [
+    "weight gain",
+    "breathlessness",
+    "excess sweating",
+    "fatigue"
+   ]
+  },
+  {
+   "term": "Vertigo (Vertigo)",
+   "namasteCode": "H_VE.10.48",
+   "icd11Code": "SE148",
+   "icd11Label": "Traditional Medicine Vertigo",
+   "symptoms": [
+    "dizziness",
+    "spinning sensation",
+    "nausea",
+    "imbalance"
+   ]
+  }
+ ]
+}

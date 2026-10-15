@@ -1,0 +1,213 @@
+.signin-page {
+  flex: 1;
+  display: flex;
+}
+
+.signin-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 48px 16px;
+}
+
+.signin-intro {
+  max-width: 420px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--color-slate);
+  margin: 0 0 24px;
+}
+
+.signin-card {
+  width: 100%;
+  max-width: 400px;
+  background: var(--color-card-bg);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-card);
+  border: 1px solid var(--color-border-subtle);
+  padding: 36px 32px 28px;
+  position: relative;
+  overflow: hidden;
+}
+
+.signin-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--color-green) 0%, var(--color-blue) 100%);
+}
+
+.signin-title {
+  margin: 0 0 6px;
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--color-ink);
+}
+
+.signin-subtitle {
+  margin: 0 0 28px;
+  font-size: 14px;
+  color: var(--color-slate);
+  line-height: 1.5;
+}
+
+.field-group {
+  margin-bottom: 18px;
+}
+
+.field-label-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.field-label {
+  display: block;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--color-ink-soft);
+  margin-bottom: 8px;
+}
+
+.forgot-link {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-blue);
+  text-decoration: none;
+}
+
+.forgot-link:hover {
+  text-decoration: underline;
+}
+
+.field-input {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: var(--radius-sm);
+  border: 1.5px solid var(--color-field-border);
+  background: var(--color-field-bg);
+  font-size: 14.5px;
+  color: var(--color-ink);
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+
+.field-input:hover {
+  background: var(--color-field-bg-hover);
+}
+
+.field-input::placeholder {
+  color: var(--color-slate-light);
+}
+
+.password-wrap {
+  position: relative;
+}
+
+.password-wrap .field-input {
+  padding-right: 40px;
+}
+
+.password-icon {
+  position: absolute;
+  right: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--color-slate-light);
+  pointer-events: none;
+}
+
+.form-error {
+  margin: -6px 0 16px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #b3261e;
+  background: #fdecea;
+  border: 1px solid #f6c6c2;
+  border-radius: var(--radius-sm);
+  padding: 9px 12px;
+}
+
+.submit-button {
+  width: 100%;
+  margin-top: 10px;
+  padding: 14px 16px;
+  border: none;
+  border-radius: var(--radius-sm);
+  background: var(--color-green);
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: -0.005em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  cursor: pointer;
+  box-shadow: var(--shadow-button);
+  transition: background 0.15s ease, transform 0.05s ease, box-shadow 0.15s ease;
+}
+
+.submit-button:hover:not(:disabled) {
+  background: var(--color-green-dark);
+  box-shadow: 0 1px 2px rgba(15, 122, 79, 0.2), 0 10px 20px -6px rgba(15, 122, 79, 0.45);
+}
+
+.submit-button:active:not(:disabled) {
+  transform: translateY(1px);
+}
+
+.submit-button:disabled {
+  opacity: 0.65;
+  cursor: default;
+  box-shadow: none;
+}
+
+.gateway-note {
+  margin: 18px 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  font-size: 11.5px;
+  color: var(--color-slate-light);
+  text-align: center;
+}
+
+.trust-row {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 20px 0 0;
+  padding: 0;
+}
+
+.trust-row li {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-slate-light);
+  position: relative;
+  padding-left: 14px;
+}
+
+.trust-row li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--color-green);
+}
